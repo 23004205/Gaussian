@@ -48,7 +48,8 @@ for i in range(n):
 ```
 
 ## Output:
-![maths2222](https://github.com/23004205/Gaussian/assets/138971114/0ad6e64f-7496-4e82-a25e-fc922f931326)
+
+(https://github.com/23004205/Gaussian/assets/138971114/b1adcce6-c75e-4f4d-a76a-6ca383ea7ae6)
 
 
 
