@@ -49,7 +49,8 @@ for i in range(n):
 
 ## Output:
 
-(https://github.com/23004205/Gaussian/assets/138971114/b1adcce6-c75e-4f4d-a76a-6ca383ea7ae6)
+![jjjj](https://github.com/23004205/Gaussian/assets/138971114/8f6b8348-7763-41b8-98be-a5bf3129e98f)
+
 
 
 
